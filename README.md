@@ -1,2 +1,2 @@
 # 爆破點點
-[https://ivesshe.github.io/BombPixel/]
+https://ivesshe.github.io/BombPixel/
